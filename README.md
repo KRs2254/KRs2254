@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KR
+- 👋 Hi, I’m Karan
 - 👀 I’ve a keen interest in Embedded Systems and VLSI Design
 - 🌱 I’m currently learning Python & C++
 
